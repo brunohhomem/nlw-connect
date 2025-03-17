@@ -19,7 +19,7 @@ export default function Home() {
           <InputIcon>
             <Mail />
           </InputIcon>
-          <InputField></InputField>
+          <InputField />
         </InputRoot>
       </div>
     </main>
